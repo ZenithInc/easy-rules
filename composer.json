@@ -1,0 +1,19 @@
+{
+    "name": "zenithsu/easy-rules",
+    "description": "Easy Rules is a PHP rules engine inspired by the easy rules project in java.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zenith\\EasyRules\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ZenithSu",
+            "email": "happy@hacking.icu"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
